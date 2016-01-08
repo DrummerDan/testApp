@@ -34,9 +34,6 @@ p {
     -moz-box-shadow: none !important;
     box-shadow: none !important;
 }
-.alert {
-    border-radius: 0;
-}
 .btn {
     border-radius: 0;
 }
